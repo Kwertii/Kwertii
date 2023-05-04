@@ -1,7 +1,8 @@
 ### こんにちは! 👋, I'm Kwertii.
 #### I'm a self-proclaimed game developer who works in Unity and C#. I started programming in about late 2018 to early 2019.
 
-I enjoy drawing and anime, with an interest in media and history. Shin Ramyun instant noodles are my lifeblood.
+I enjoy drawing and anime, with an interest in media and history.
+I speak English only, although I am learning Japanese.
 
 ### Tools and Languages:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
