@@ -1,4 +1,4 @@
-### こんにちは! 👋, I'm Kwertii.
+### こんにちは! 👋, I'm Remon.
 #### I'm a self-proclaimed game developer who works in Unity and C#. I started programming in about late 2018 to early 2019.
 
 I enjoy drawing and anime, with an interest in media and history.
@@ -15,7 +15,7 @@ and currently learning more.
 
 * 🔭 I’m currently working on: Multiplayer Unity game with a few friends.
 * 🌱 I’m currently (trying) to learn shaders.
-* 🌱 I’m currently taking the Harvard CS50x course
+* 🎓 I’m currently taking the Harvard CS50x course.
 * 📖 I’m currently reading: Crime and Punishment by Fyodor Dostoevsky.
 * 💬 Ask me about history or Unity.
 * 🎨 I also occasionally draw.
