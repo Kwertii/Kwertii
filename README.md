@@ -20,8 +20,9 @@ and currently learning more.
 * 🌱 I’m currently (trying) to learn shaders.
 * 🎓 I’m currently taking the Harvard CS50x course.
 * 📖 I’m currently reading: Crime and Punishment by Fyodor Dostoevsky.
-* 💬 Ask me about history or Unity.
-* 🎨 I also occasionally draw (anime, but pretend I do like painting or whatever okay).
+* 💬 Ask me about Unity or literally anything; I don't mind helping people!
+* 🎨 I also occasionally draw (anime, but pretend I do like painting or whatever okay like impressionism and all that).
+* 🎓 Also heads up; I may not be consistently available, as, well, I am still a student. I'll respond to things as soon as I can, but if I'm late, you know why!
 
 ### Socials and Contacts
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
