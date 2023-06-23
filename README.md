@@ -10,16 +10,17 @@ I speak English only, although I am learning Japanese (but please don't expect m
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 and currently learning more.
 
-* 🔭 I’m currently working on: Multiplayer Unity game with a few friends.
-* 🌱 I’m currently (trying) to learn shaders.
+* 🔭 I’m currently working on: NekoDeko, an SRS flashcard system.
+* 🌱 I’m currently (trying) to learn React.
 * 🎓 I’m currently taking the Harvard CS50x course.
-* 📖 I’m currently reading: Crime and Punishment by Fyodor Dostoevsky.
+* 📖 I’m currently reading: Pride and Prejudice by Jane Austen.
 * 💬 Ask me about Unity or literally anything; I don't mind helping people!
 * 🎨 I also occasionally draw (anime, but pretend I do like painting or whatever okay like impressionism and all that).
 * 🎓 Also heads up; I may not be consistently available, as, well, I am still a student. I'll respond to things as soon as I can, but if I'm late, you know why!
