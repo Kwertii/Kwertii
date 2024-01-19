@@ -17,10 +17,6 @@ I speak English only, although I am learning Japanese (but please don't expect m
 
 and currently learning more.
 
-* 🔭 I’m currently working on: Mugen, a custom e-book reader.
-* 🌱 I’m currently (trying) to learn React.
-* 🎓 I’m currently taking the Harvard CS50x course.
-* 📖 I’m currently reading: American Prometheus by Kai Bird and Martin J. Sherman.
 * 💬 Ask me about Unity or literally anything; I don't mind helping people!
 * 🎨 I also occasionally draw (anime, but pretend I do like painting or whatever okay like impressionism and all that).
 * 🎓 Also heads up; I may not be consistently available, as, well, I am still a student. I'll respond to things as soon as I can, but if I'm late, you know why!
