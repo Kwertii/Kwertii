@@ -1,5 +1,5 @@
-### ❤ remonjiru
-##### student developer, mainly works in Unity and C#.
+### remonjiru ♡
+##### hobbyist student developer, mainly works in Unity and C#.
 i started programming in late 2018 to early 2019.
 
 ### stuff i use (tools, software, languages):
