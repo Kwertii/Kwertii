@@ -1,5 +1,5 @@
-### remonjiru (any pronouns are fine)
-#### student developer, mainly works in Unity and C#.
+### ❤ remonjiru
+##### student developer, mainly works in Unity and C#.
 i started programming in late 2018 to early 2019.
 
 ### stuff i use (tools, software, languages):
@@ -13,7 +13,7 @@ i started programming in late 2018 to early 2019.
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Socials and Contacts
+### socials and contacts
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
